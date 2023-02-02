@@ -1,2 +1,1 @@
-# Miraiv2
-Mirai Project
+# nhìn cái cứt chó, cút ra ngoài
