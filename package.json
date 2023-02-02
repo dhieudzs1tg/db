@@ -1,6 +1,6 @@
 {
-    "name": "MiraiBot-DC-Nam",
-    "version": "1.2.15",
+    "name": "MiraiBot",
+    "version": "1.0.8",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
     "scripts": {
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/duongcongnam/Miraiv2.git"
     },
-    "author": "DC-Nam",
+    "author": "dhieu",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
